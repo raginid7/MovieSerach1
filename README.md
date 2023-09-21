@@ -1,1 +1,1 @@
-# MovieSerach1
+# MovieSerachAppImdbClone
